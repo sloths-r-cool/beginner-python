@@ -33,7 +33,7 @@ else:
     print("Your final score was…")
     print(str(score))
 if score <= 1:
-    print("Dumbass…")
+    print("Low…")
 elif score == 2:
     print("Average.")
 else:
